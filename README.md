@@ -3,7 +3,7 @@ Mattias Nordin Portfolio
 
 ## Give em Hell (2 month game project)
 
-Technical Showcase: https://hman1313.itch.io/give-em-hell
+Itch IO: https://hman1313.itch.io/give-em-hell
 
 ## Damned Soul (4 month game project)
 
